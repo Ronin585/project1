@@ -1,0 +1,24 @@
+USER: hi
+
+ASSISTANT: Hello! How can I assist you today?
+
+USER: returns
+
+ASSISTANT: Of course! I can help you with returns. Do you have the item you'd like to return with you?
+
+USER: how u doing
+
+ASSISTANT: I'm doing well, thank you for asking! How can I assist you with your return today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I assist you today?
+
+USER: hey
+
+ASSISTANT: Hi there! How can I assist you?
+
+USER: hey
+
+ASSISTANT: Hello! How can I assist you today?
+

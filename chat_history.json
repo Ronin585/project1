@@ -1,0 +1,50 @@
+[
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "returns"
+  },
+  {
+    "role": "assistant",
+    "content": "Of course! I can help you with returns. Do you have the item you'd like to return with you?"
+  },
+  {
+    "role": "user",
+    "content": "how u doing"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm doing well, thank you for asking! How can I assist you with your return today?"
+  },
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "hey"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi there! How can I assist you?"
+  },
+  {
+    "role": "user",
+    "content": "hey"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I assist you today?"
+  }
+]
