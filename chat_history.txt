@@ -22,3 +22,87 @@ USER: hey
 
 ASSISTANT: Hello! How can I assist you today?
 
+USER: hi
+
+ASSISTANT: Hello! How can I assist you today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I assist you with your clothing needs today?
+
+USER: hey
+
+ASSISTANT: Hi there! How can I assist you with your shopping today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I help you with your clothing needs today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I assist you with your clothing needs today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I assist you today with your clothing shopping?
+
+USER: hi
+
+ASSISTANT: Hello! How can I assist you with your clothing needs today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I help you with your clothing needs today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I assist you with your clothing needs today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I assist you with your clothing needs today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I assist you with your clothing needs today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I assist you with your clothing needs today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I assist you with your clothing needs today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I assist you with your clothing needs today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I assist you with your clothing needs today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I help you with your clothing needs today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I assist you with your clothing needs today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I assist you with your clothing needs today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I assist you with your clothing needs today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I assist you with your clothing needs today?
+
+USER: hi
+
+ASSISTANT: Hello! How can I help you with your clothing needs today?
+
